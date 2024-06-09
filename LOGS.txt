@@ -1,0 +1,15 @@
+2024-06-09 13:34:45.444232 
+ : INFO 
+ : Service is started 
+2024-06-09 13:34:49.408284 
+ : DEBUG 
+ : variable one is 5. Variable two is 8 
+2024-06-09 13:34:49.408351 
+ : DEBUG 
+ : functions "start" is running 
+2024-06-09 13:34:49.408485 
+ : CRITICAL 
+ : invalid values 
+2024-06-09 13:34:49.408507 
+ : INFO 
+ : Result >>> None 
